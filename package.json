@@ -1,0 +1,13 @@
+{
+  "name": "mpesa-daraja-module",
+  "version": "1.0.0",
+  "description": "Reusable MPesa Daraja API integration module",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mpesa", "daraja", "safaricom", "payments", "kenya"],
+  "author": "Kelvin Mbithi",
+  "license": "MIT"
+}
