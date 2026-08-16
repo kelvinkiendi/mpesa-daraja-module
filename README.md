@@ -43,11 +43,3 @@ MPESA_PASSKEY=your-passkey
 MPESA_SHORTCODE=your-shortcode
 MPESA_ENVIRONMENT=sandbox
 
-**Then push it:**
-```bash
-git init
-git add .
-git commit -m "feat(payments): add reusable MPesa Daraja STK push module"
-git branch -M main
-git remote add origin https://github.com/kelvinkiendi/mpesa-daraja-module.git
-git push -u origin main
