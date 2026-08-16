@@ -49,10 +49,7 @@ MPESA_SHORTCODE=your-shortcode
 MPESA_ENVIRONMENT=sandbox
 
 
-Then push it:
-
-```bash
-cd ~/mpesa-daraja-module
-git add README.md
-git commit -m "fix(readme): remove accidentally pasted git commands"
-git push origin main
+## Tech Stack
+- Node.js (ES Modules)
+- Fetch API
+- Safaricom Daraja API v2
